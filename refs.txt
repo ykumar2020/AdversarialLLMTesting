@@ -1,0 +1,5 @@
+[1] Y. Kumar, J. Delgado, E. Kupershtein, B. Hannon, J.J. Li and P. Morreale. (2023) AssureAIDoctor- A Bias-Free AI Bot. In proceeding of the 2023 International Symposium on Networks, Computers and Communications (ISNCC): Artificial Intelligence and Machine Learning. (ISNCC 2023, accepted)
+
+[2] Y. Kumar, P. Morreale, P. Sorial, J. Delgado, J. J. Li and P. Martins (2023) A Testing Framework for AI Linguistic Systems (testFAILS). In proceedings of the 2023 IEEE International Conference on Artificial Intelligence Testing (AITest), DOI: 10.1109/AITest58265.2023.00004.
+
+[3] B. Hannon, Y. Kumar, P. Sorial, J. J. Li, and P. Morreale (2023) From Vulnerabilities to Improvements: A Deep Dive into Adversarial Testing of AI Models. In proceeding of the 21st International Conference on Software Engineering Research & Practice (SERP 2023, presented)
